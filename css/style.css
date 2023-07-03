@@ -250,7 +250,7 @@ transform: scaleY(0.9);
     position: absolute;
     left: 0;
     bottom:-30px;
-    background-image: url(../imgs/dots.png);
+    background-image: url(/imgs/dots.png);
     background-repeat: repeat;
     z-index: -1;
 }
