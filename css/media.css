@@ -1,0 +1,75 @@
+@media only screen and (min-width: 768px) {
+    .cd-headline {
+        font-size: 70.4px;
+        font-weight: 300;
+      }
+  }
+  @media only screen and (min-width: 1170px) {
+    .cd-intro {
+      margin: 6em auto;
+    }
+    .cd-headline {
+        font-size: 96px;
+      }
+  }
+@media (max-width:1170px){
+  #about .img-container {
+    margin: 0;
+    width: 100%;
+}
+}
+@media(max-width:1200px){
+  #portfolio .layer{
+    width: 100%;
+    height: 100%;
+    }
+}
+  @media (max-width:992px){
+    #about .img-container{
+      margin-bottom: 50px;
+    }
+    #contact .form-part .first-group {
+      gap:20px ;
+    }
+    .fixed-navbar .nav-link::after{
+      all: unset;
+    }
+    .navbar .nav-link::after{
+      all: unset;
+    }
+  }
+  @media (max-width:767px){
+    .cd-headline {
+      font-size: 30px !important;
+      font-weight: 300;
+    }
+     .swiper .image {
+    width: 20%;
+}
+.swiper .content{
+  padding-inline: 0 !important ;
+  width: 100% !important;
+}
+  }
+  @media (max-width:576px){
+    .cd-headline {
+      font-size: 30px !important;
+      font-weight: 300;
+    }
+     .swiper .image {
+    width: 20%;
+}
+.swiper .content{
+  padding-inline: 0 !important ;
+  width: 100% !important;
+}
+.btn-group {
+  width: 80% !important;
+}
+#team .row .col-md-6{
+margin-bottom: 25px !important;
+}
+  }
+
+
+
