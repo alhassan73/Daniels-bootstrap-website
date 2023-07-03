@@ -342,7 +342,7 @@ transform: scaleY(0.9);
 }
 .section-header h3::after {
     content: '';
-    background-image: url(/imgs/dots.png);
+    background-image: url(../imgs/dots.png);
     width: 100%;
     height:50%;
     position: absolute;
